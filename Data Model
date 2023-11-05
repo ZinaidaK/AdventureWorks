@@ -1,0 +1,6 @@
+Data Model
+
+The model has 6 tables. 
+FACT TABLES: Sales, Budget
+DIMENTION TABLES: Product, Calendar, Territories, Customer
+
